@@ -52,6 +52,6 @@ h3{
   text-align:center;
 }
 
-.bricks ul{
-  margin-bottom:100px;
+ul.bricks{
+  margin-bottom:50px;
 }

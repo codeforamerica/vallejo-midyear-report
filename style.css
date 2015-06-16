@@ -2,6 +2,15 @@ h3{
   color:#399fd3;
 }
 
+.section-lead{
+  margin-bottom:0;
+  font-weight:bold;
+}
+
+.description{
+  margin-top:0;
+}
+
 
 #content h2{
   font-size: 36px;
@@ -42,6 +51,10 @@ h3{
 #history ul li{
   list-style: none;
   background-image:none;
+}
+
+#history .section-lead{
+  margin-top:0;
 }
 
 #strategy .text-feature{

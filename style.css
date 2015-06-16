@@ -1,3 +1,22 @@
+
+
+#intro img{
+  margin-bottom:20px;
+}
+
+#side{
+  border-right:1px solid #e5e5e5;
+  padding-left:10px;
+}
+
+.heading p{
+  text-align:right;
+}
+
+.heading h2{
+  float:left;
+}
+
 h3{
   color:#399fd3;
 }
@@ -10,6 +29,8 @@ h3{
 .description{
   margin-top:0;
 }
+
+
 
 
 #content h2{
@@ -67,5 +88,9 @@ h3{
 
 
 ul.bricks{
+  margin-bottom:50px;
+}
+
+#research blockquote{
   margin-bottom:50px;
 }

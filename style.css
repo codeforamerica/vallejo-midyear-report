@@ -13,6 +13,10 @@
   text-align:right;
 }
 
+.heading h2{
+  float:left;
+}
+
 h3{
   color:#399fd3;
 }

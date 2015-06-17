@@ -94,3 +94,7 @@ ul.bricks{
 #research blockquote{
   margin-bottom:50px;
 }
+
+#prototypes .section-lead, #projects .section-lead{
+  margin-top:50px;
+}

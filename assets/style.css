@@ -96,3 +96,7 @@ ul.bricks{
 }
 
 #team .layout-breve{ padding: 5px 2%; }
+
+ul li{
+    list-style:none;
+}

@@ -1,0 +1,98 @@
+
+
+#intro img{
+  margin-bottom:20px;
+}
+
+#side{
+  border-right:1px solid #e5e5e5;
+  padding-left:10px;
+}
+
+.heading p{
+  text-align:right;
+}
+
+.heading h2{
+  float:left;
+}
+
+h3{
+  color:#399fd3;
+}
+
+.section-lead{
+  margin-bottom:0;
+  font-weight:bold;
+}
+
+.description{
+  margin-top:0;
+}
+
+
+
+
+#content h2{
+  font-size: 36px;
+}
+
+.profile-small, ul.profiles > li, ul.profiles > li{
+  margin-right:10px;
+}
+
+.profile-small, ul.profiles > li, ul.profiles > li:last-child{
+  margin-right:0;
+}
+
+
+.history-circle{
+  height:100px;
+  width:100px;
+  border-radius:100px;
+  background-color:#399fd3;
+  color:#ffffff;
+  text-align:center;
+  float:left;
+  margin-right:20px;
+  line-height:5;
+  font-weight: bold;
+}
+
+.history-desc {
+  display:inline-block;
+  width:80%;
+}
+
+.history-group{
+  margin-bottom:20px;
+}
+
+
+#history ul li{
+  list-style: none;
+  background-image:none;
+}
+
+#history .section-lead{
+  margin-top:0;
+}
+
+#strategy .text-feature{
+  color:#cf1b41;
+}
+
+.brick{
+  text-align:center;
+}
+
+
+ul.bricks{
+  margin-bottom:50px;
+}
+
+#research blockquote{
+  margin-bottom:50px;
+}
+
+#team .layout-breve{ padding: 5px 2%; }

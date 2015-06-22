@@ -101,8 +101,4 @@ ul li{
     list-style:none;
 }
 
-.img-rotate-90 {
-/*    -ms-transform: rotate(90deg);
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
-*/}
+img { width: 100%; }
